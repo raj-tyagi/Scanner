@@ -11,9 +11,11 @@ Scanner is a simple Android application in Kotlin for scanning and decoding QR c
 
 ## Screenshots
 
-<!-- Add screenshots of your app here -->
-<!-- ![Screenshot1](screenshots/screenshot1.png) -->
-<!-- ![Screenshot2](screenshots/screenshot2.png) -->
+<p align="center">
+  <img src="https://github.com/raj-tyagi/Scanner/assets/110656539/47483e58-5831-40a8-9344-8553a3d0f272" width="250" />
+  <img src="https://github.com/raj-tyagi/Scanner/assets/110656539/2d1337da-f3da-4a4a-8b12-c2ede00c0f64" width="250" />
+</p>
+
 
 ## Installation
 
