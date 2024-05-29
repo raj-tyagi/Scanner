@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Scanner</string>
+
+        <string name="scan">Scan</string>
+        <string name="scan_results_here">Scan results will appear here</string>
+
+</resources>
